@@ -1,8 +1,8 @@
 # To Do
-[X] Levelling
+- [x] Leveling
 
-  [] Test to make sure its perfect
+-  [] Test to make sure its perfect
   
-[X] ChatBot
+- [x] ChatBot
   
-  [X] Test to make sure its perfect
+-  [x] Test to make sure its perfect
