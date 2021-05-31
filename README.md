@@ -3,6 +3,5 @@
 
   - [ ] Test to make sure its perfect
   
+# Next Update:
 - [x] ChatBot
-  
-  - [x] Test to make sure its perfect
